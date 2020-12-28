@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/AhTl2sp.gif' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](ezgif.com/video-to-gif).
 
 ## Notes
 
@@ -38,7 +38,7 @@ No challenges encountered while building the app, the guide and video were very 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Albert Tran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
